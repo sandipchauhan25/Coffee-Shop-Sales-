@@ -28,12 +28,6 @@ To explore and visualize sales performance across various dimensions like time, 
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./your_dashboard_image.png)
-
----
-
 ## 🔗 Tableau Dashboard Link
 
 > [View on Tableau Public](https://public.tableau.com/...) *(Insert your published Tableau link)*
